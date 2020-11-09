@@ -15,7 +15,7 @@ exports.create = (req, res) => {
         categrory: req.body.categrory,
         price: req.body.price,
         qty: req.body.qty,
-        picurl: req.body.priceurl
+        picurl: req.body.picurl
       });
 
       // Save Product in the database

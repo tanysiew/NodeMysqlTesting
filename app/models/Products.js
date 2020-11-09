@@ -7,7 +7,7 @@ const Product = function(product) {
     // this.created_at = product.created_at;
     this.price = product.price;
     this.qty = product.qty;
-    this.picurl = product.priceurl;
+    this.picurl = product.picurl;
 
 }
 
